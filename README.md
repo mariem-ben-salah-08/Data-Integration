@@ -4,8 +4,6 @@
 
 Ce projet met en œuvre une **architecture de traitement de données distribuée** autour d’un pipeline complet depuis la collecte jusqu’à l’analyse, en s’appuyant sur des technologies Big Data modernes. Le projet s’inscrit dans une logique d’**intégration continue, d’automatisation, de scalabilité** et de **monitoring**.
 
----
-
 ##  Architecture générale
 
 Le projet repose sur les composants suivants :
